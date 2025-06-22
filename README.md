@@ -110,9 +110,9 @@ max_tokens = 4096
 temperature = 0.0
 
 # Bluesky tool configuration
-"""
+
 Before using this module, you must first fill in the 'user' and 'password' keys in the file `app/tool/bsky.py`.
-"""
+
 
 # Optional configuration for specific LLM models
 [llm.vision]
